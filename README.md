@@ -1,6 +1,6 @@
 # DiskScheduler
 
-This was a project completed in COP4600 to implement 6 different disk scheduling algorithms in Golang. The is meant to process a maximum of 20 disk requests and includes error checking for invalid cylinder positions.
+This was a project completed in COP4600 to implement 6 different disk scheduling algorithms in Golang. This is meant to process a maximum of 20 disk requests and includes error checking for invalid cylinder positions.
 
 **The 6 algorithms we implement are:**
 
