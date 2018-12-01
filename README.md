@@ -4,10 +4,10 @@ This was a project completed in COP4600 (Operating Systems) to implement 6 diffe
 
 The 6 algorithms we implement are:
 
-    - First come first served (fcfs)
-    - Shortest seek time first (sstf)
-    - Scan (scan)
-    - Circular scan (c-scan)
-    - Look (look)
-    - Circular look (c-look)
+    * First come first served (fcfs)
+    * Shortest seek time first (sstf)
+    * Scan (scan)
+    * Circular scan (c-scan)
+    * Look (look)
+    * Circular look (c-look)
      
